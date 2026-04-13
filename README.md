@@ -6,7 +6,7 @@ All firmware is written in C. The robot follows three pre-programmed paths throu
 
 ## Demo
 
-📺 **[Video demonstration — coming soon]**
+📺 **[Video demonstration]**
 
 ## Team
 
